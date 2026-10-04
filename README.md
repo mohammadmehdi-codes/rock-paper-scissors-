@@ -4,11 +4,11 @@ A simple Rock Paper Scissors game built with Python.
 
 ## Features
 
-- 🎯 Rock, Paper, Scissors gameplay
-- 🤖 Random computer choice
-- 🏆 Score tracking
-- ❌ Invalid input handling
-- 🚪 Quit option
+Rock, Paper, Scissors gameplay
+Random computer choice
+Score tracking
+Invalid input handling
+Quit option
 
 ## How to Play
 
